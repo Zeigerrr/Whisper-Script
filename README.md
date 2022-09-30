@@ -1,4 +1,6 @@
 # Whisper-Script
-Kiddions Script Recovery
+Kiddions Script
+
+Features: (SOON)
 
 ETA: 10 Days
